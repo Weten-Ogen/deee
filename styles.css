@@ -1,0 +1,14 @@
+body{
+  background-color: black;
+  color: red;
+}
+.circle1{
+  display: inline-block;
+  width:50%;
+  height:50%;
+  background-color: yellow;
+}
+button{
+  background-color: blue;
+  font-size: 45px;
+}
